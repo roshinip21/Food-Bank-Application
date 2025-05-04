@@ -70,9 +70,9 @@ SD Food Connect is an innovative application developed to facilitate efficient f
 * Improved food redistribution efficiency and community engagement, supported by robust system design.
 * Real-time monitoring and dynamic insights via embedded Tableau visualizations.
 
-<img width="1136" alt="Screenshot 2025-03-12 at 10 50 45 AM" src="https://github.com/roshinip21/Food-Bank-Application/blob/main/Visualization/MatchingSucess.png"/>
+<img width="900" alt="Screenshot 2025-03-12 at 10 50 45 AM" src="https://github.com/roshinip21/Food-Bank-Application/blob/main/Visualization/MatchingSucess.png"/>
 
-<img width="1136" alt="https://github.com/roshinip21/Food-Bank-Application/blob/main/Visualization/DonationType.png"/>
+<img width="1136" src="https://github.com/roshinip21/Food-Bank-Application/blob/main/Visualization/DonationType.png"/>
 
 ## Contribution
 
