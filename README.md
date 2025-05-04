@@ -1,8 +1,14 @@
+# Food-Bank-Application
+
+
 # SD Food Connect
 
 ## Overview
 
 SD Food Connect is an innovative application developed to facilitate efficient food redistribution and address food insecurity issues. By integrating advanced geospatial analysis, robust database management, and interactive data visualizations, SD Food Connect optimizes the allocation of surplus food to communities in need.
+
+
+<img width="1136" alt="Screenshot 2025-03-12 at 10 50 45 AM" src="https://github.com/roshinip21/Food-Bank-Application/blob/main/System%20Architecture%20Diagram.png"/>
 
 ## Features
 
@@ -16,7 +22,7 @@ SD Food Connect is an innovative application developed to facilitate efficient f
 * **Frontend:** React
 * **Backend:** Flask
 * **Database:** PostgreSQL
-* **Visualization:** Tableau
+* **Visualization:** Tableau and Python Plotly, Seaborn
 * **Geospatial Analysis:** OpenStreetMap (OSM)
 
 ## Setup and Installation
@@ -63,6 +69,10 @@ SD Food Connect is an innovative application developed to facilitate efficient f
 * Enhanced decision-making through geospatial analytics.
 * Improved food redistribution efficiency and community engagement, supported by robust system design.
 * Real-time monitoring and dynamic insights via embedded Tableau visualizations.
+
+<img width="1136" alt="Screenshot 2025-03-12 at 10 50 45 AM" src="https://github.com/roshinip21/Food-Bank-Application/blob/main/Visualization/MatchingSucess.png"/>
+
+<img width="1136" alt="https://github.com/roshinip21/Food-Bank-Application/blob/main/Visualization/DonationType.png"/>
 
 ## Contribution
 
