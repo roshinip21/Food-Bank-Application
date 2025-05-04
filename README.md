@@ -84,6 +84,6 @@ This project is currently for academic and demonstration purposes only.
 
 ## Contact
 
-* **Author:** Your Name
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+* **Author:** Roshini Padmanabha
+* **Email:** roshini.padmanabha@gmail.com
+* **LinkedIn:** [[My LinkedIn](https://www.linkedin.com/in/roshini-p21/)]
